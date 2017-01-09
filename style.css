@@ -1,0 +1,29 @@
+#shortcodes_panel {
+	background: white;
+	width:70%;
+	margin:0 auto;
+	-webkit-box-shadow: 0px 0px 25px 0px rgba(176,173,176,1);
+	-moz-box-shadow: 0px 0px 25px 0px rgba(176,173,176,1);
+	box-shadow: 0px 0px 25px 0px rgba(176,173,176,1);
+	display: none;	
+}
+
+#shortcodes_panel h1 {
+	padding-left: 10px;
+}
+
+#shortcodes_panel .shortcode-frame-content {
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	height: 450px;
+	padding: 10px;
+}
+
+#shortcodes_panel button.media-button-insert {
+	margin: 15px 0 0 10px;
+}
+
+#shortcodes_panel .shortcode-frame-content label{
+	display: block;
+	padding-bottom: 10px;
+}
